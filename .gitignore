@@ -1,0 +1,19 @@
+
+# Informações privadas
+.env*
+!.env.example
+
+# Dependências
+node_modules/
+
+# Arquivos gerados pelo Next.js
+.next/
+out/
+build/
+
+# Arquivos temporários
+*.log
+.DS_Store
+# Backups e arquivos gerados
+*.bak
+*.tsbuildinfo

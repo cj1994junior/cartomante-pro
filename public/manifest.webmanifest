@@ -1,0 +1,26 @@
+{
+  "name": "Cartomante Pro",
+  "short_name": "Cartomante",
+  "description": "Gestão completa para cartomantes: consultas, agenda, consulentes, finanças e relatórios.",
+  "start_url": "/app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4ecdd",
+  "theme_color": "#2a1b44",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
